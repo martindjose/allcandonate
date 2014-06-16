@@ -1,3 +1,3 @@
 allcandonate
 ============
-This is the first test commit.
+This is the test commit.
